@@ -55,7 +55,7 @@ Each submission should include at least one plot in which the x-axis is the conc
 Here are the graphs showing the execution time
 
 ### Plots
-![](plots/performance_debug_1024.png?raw=true)
-![](plots/performance_debug_1048576.png?raw=true)
-![](plots/performance_release_1024.png?raw=true)
-![](plots/performance_release_1048576.png?raw=true)
+![](plots/Parallel_vs_Sequential_Speed_Comparison.png?raw=true)
+![](plots/Program_Speed_For_1024_Iterations.png?raw=true)
+![](plots/Program_Speed_For_100000_Iterations.png?raw=true)
+![](plots/Speed_When_Balance_Has_No_Locks.png?raw=true)
