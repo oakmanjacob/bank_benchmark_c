@@ -29,6 +29,11 @@ Command-Line Options:
   -h          : display this message and exit
 ```
 
+Clean up the binaries
+```bash
+$> make clean
+```
+
 ## Assignment Instructions
 Here is a slightly adapted version of the origional instructions with assignment specific things removed
 
