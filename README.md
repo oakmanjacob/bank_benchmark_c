@@ -20,7 +20,7 @@ $> ./obj32/p1
 ```
 
 This can be configured through using new parameters
-```bash
+```
 Command-Line Options:
   -n <string> : a phrase to help differentiate experiments
   -k <int>    : the upper maximum key value when choosing random keys
