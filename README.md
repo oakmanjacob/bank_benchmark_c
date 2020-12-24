@@ -1,10 +1,8 @@
 # Bank Benchmark Example in C
 by Jacob Oakman
 
-[A rust implementation can be found here!](https://github.com/oakmanjacob/bank_benchmark_rs)
-
 ## Purpose
-This is an extra credit assignment which was completed for CSE 375: Principle and Practice of Parallel Computing at Lehigh University.
+This is an extra credit assignment which was completed for CSE 375: Principle and Practice of Parallel Computing at Lehigh University. This project was reimplemented in rust [here](https://github.com/oakmanjacob/bank_benchmark_rs).
 
 ## Explanation
 We use a simple map implementation to model a list of accounts in a bank. A series of commands are run on seperate threads either transferring money between accounts or summing the total money across all accounts as a simple correctness check.
