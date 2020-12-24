@@ -8,6 +8,26 @@ This is an extra credit assignment which was completed for CSE 375: Principle an
 We use a simple map implementation to model a list of accounts in a bank. A series of commands are run on seperate threads either transferring money between accounts or summing the total money across all accounts as a simple correctness check.
 
 ## Running
+Compile the code using
+```bash
+$> cd src
+$> make
+```
+
+Run the executable with default parameters
+```bash
+$> ./obj32/p1
+```
+
+This can be configured through using new parameters
+```bash
+Command-Line Options:
+  -n <string> : a phrase to help differentiate experiments
+  -k <int>    : the upper maximum key value when choosing random keys
+  -i <int>    : the number of iterations per thread
+  -t <int>    : the number of threads in the experiment
+  -h          : display this message and exit
+```
 
 ## Assignment Instructions
 Here is a slightly adapted version of the origional instructions with assignment specific things removed
