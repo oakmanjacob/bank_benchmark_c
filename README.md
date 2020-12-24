@@ -1,4 +1,4 @@
-# Bank Benchmark Example in Rust
+# Bank Benchmark Example in C
 by Jacob Oakman
 
 ## Purpose
