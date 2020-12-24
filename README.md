@@ -80,9 +80,9 @@ Each submission should include at least one plot in which the x-axis is the conc
 Here are the graphs showing the execution time
 
 ### Test Platform
-Intel Xeon E3-1240 v3 @ 3.40GHz
-16GB RAM
-CentOS 6.10
+Intel Xeon E3-1240 v3 @ 3.40GHz  
+16GB RAM  
+CentOS 6.10  
 
 ### Plots
 ![](plots/Parallel_vs_Sequential_Speed_Comparison.png?raw=true)
