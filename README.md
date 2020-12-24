@@ -10,7 +10,7 @@ We use a simple map implementation to model a list of accounts in a bank. A seri
 ## Running
 
 ## Assignment Instructions
-Here is a slightly adapted version of the origional instructions with c specific things removed
+Here is a slightly adapted version of the origional instructions with assignment specific things removed
 
 ### Step 1
 Define a map of types <int,double>. This map represents a collection of bank accounts:
