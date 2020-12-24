@@ -1,7 +1,7 @@
 # Bank Benchmark Example in C
 by Jacob Oakman
 
-[A rust implementation can be found here!](https://github.com/oakmanjacob/bank_benchmark_c)
+[A rust implementation can be found here!](https://github.com/oakmanjacob/bank_benchmark_rs)
 
 ## Purpose
 This is an extra credit assignment which was completed for CSE 375: Principle and Practice of Parallel Computing at Lehigh University.
